@@ -1,34 +1,15 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Modern Full Stack ECommerce Application with Stripe & Sanity
 
-## Getting Started
+![Screenshot 2022-11-28 114604](https://user-images.githubusercontent.com/96782909/204308364-565d52cf-bfdc-4820-8da1-927edf216b68.png)
 
-First, run the development server:
+![Screenshot 2022-11-28 114723](https://user-images.githubusercontent.com/96782909/204308395-c058f71d-d515-4e7f-b449-6db79f6321d7.png)
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+![Screenshot 2022-11-28 114802](https://user-images.githubusercontent.com/96782909/204308415-0b42d3f1-75c3-4f26-9a6b-0fad08982378.png)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+![Screenshot 2022-11-28 114844](https://user-images.githubusercontent.com/96782909/204308443-1bf93af1-8d4b-4bbc-a4c7-74b5eef55136.png)
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+![Screenshot 2022-11-28 114922](https://user-images.githubusercontent.com/96782909/204308461-9570c557-5ce1-4360-9d93-3cf609c0005a.png)
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+![Screenshot 2022-11-28 115008](https://user-images.githubusercontent.com/96782909/204308484-1962c330-9375-4356-bd35-6f7e3126932e.png)
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+![Screenshot 2022-11-28 115227](https://user-images.githubusercontent.com/96782909/204308495-f413fe69-a02e-42c3-9d01-78a052410f7e.png)
